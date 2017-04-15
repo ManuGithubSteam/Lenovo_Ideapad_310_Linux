@@ -76,6 +76,9 @@ Don't forget the sync.
 
 **Partitioning**
 
+I will not use btfs but instead ext4 with some slight modifications for ssds. The reason is, that btfs can show you have no space left on the device because it runs out of inodes to adress the space but actually you have space left. Fixing this not not trivial so i want to avoid any obstickles in the future with this. 
+
+
 **Install**
 
 **Cleaning up**
