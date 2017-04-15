@@ -3,9 +3,9 @@ Tipps and expiriences with the Lenovo Ideapad 310 with Linux
 
 # Why
 
-(2017) The Lenovo Ideapad 310 is a reasonable good machine from Lenovo and it is available in may configurations, from mid range gaming with Nvidia over mutlimedia with dvd player to office configurations. On youtube there are many tutorials on how to upgrade the 310 and it is well reciefed by review portals (75% - 85% in the Ratings)
+(2017) The Lenovo Ideapad 310 is a reasonable good machine from Lenovo and it is available in may configurations, from mid to upper range gaming (https://www.youtube.com/watch?v=AKwqNbup6qE) with Nvidia over mutlimedia with dvd player to office configurations. On youtube there are many tutorials on how to upgrade the 310 and it is well reciefed by review portals (75% - 85% in the Ratings)
 
-So it has many usecases. However as I researched I could not find a good howto for Linux in this laptop series from Lenovo. So I'm writing my own one. As i will fit this machine for a friend who is a beginner in Linux i will also focus on makeing the Linux expirinence smooth as possible for new Linux users.
+So it has many usecases and is well estblished in the Windows world. However as I researched I could not find a good howto for Linux in this laptop series from Lenovo. So I'm writing my own one. As i will fit this machine for a friend who is a beginner in Linux i will also focus on makeing the Linux expirinence smooth as possible for new Linux users.
 
 # Youtube Reviews and Stuff
 https://www.youtube.com/results?search_query=Lenovo+ideapad+310-15ikp+80TV00XXIH
@@ -56,6 +56,8 @@ KDE is the obvious choice as it is more intuitive for an ex-Windows user as for 
 
 Also Plasma 5 from KDE offers some cool feature to make the workflow more powerfull and easy at the same time. Another cool feature is KDE Connect for your Android phone.
 
+However i will not use snap! This is not needed and advised for normal user, as it tends to bloat the system for no reason. 
+
 -> http://www.kubuntu.org/
 
 # Install
@@ -70,17 +72,17 @@ Don't forget the sync.
 
 **Bios**
 
-** Booting Live System **
+**Booting Live System**
 
-** Partitioning**
+**Partitioning**
 
-** Install **
+**Install**
 
-** Cleaning up**
+**Cleaning up**
 
 # First Boot
 
-** Maintanance **
+**Maintanance**
 
 # Conclusion
 
