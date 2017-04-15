@@ -15,7 +15,7 @@ https://www.youtube.com/results?search_query=Lenovo+ideapad+310-15ikp+80TV00XXIH
 As my friend will use the Laptop mostly for multimedia, i did choose a configuration with a dvd plaxer.
 Specificly i choose this one: https://www.amazon.de/Lenovo-ideapad-Notebook-i5-7200U-DVD-Brenner/dp/B01MTY2HTD/ref=sr_1_1?s=computers&ie=UTF8&qid=1492260062&sr=1-1&keywords=Lenovo+ideapad+310+ssd+dvd
 
-Lenovo ideapad 310 80TV00RLGE
+Lenovo IdeaPad 310-15IKB 80TV00RLGE 
 
 Main Specs:
 - i5 Processor 3.1 Ghz (2 cores)
