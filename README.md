@@ -56,7 +56,11 @@ KDE is the obvious choice as it is more intuitive for an ex-Windows user as for 
 
 Also Plasma 5 from KDE offers some cool feature to make the workflow more powerfull and easy at the same time.
 
+-> 
 
+# Install
+
+--Bios--
 
 #Tags:
 
