@@ -54,13 +54,38 @@ I will use the newest Kubuntu 17.04 for this Laptop. The reasion beeing, Ubuntu 
 
 KDE is the obvious choice as it is more intuitive for an ex-Windows user as for instead say Gnome. I won't go into Unity. Reason are all over the Internet. 
 
-Also Plasma 5 from KDE offers some cool feature to make the workflow more powerfull and easy at the same time.
+Also Plasma 5 from KDE offers some cool feature to make the workflow more powerfull and easy at the same time. Another cool feature is KDE Connect for your Android phone.
 
--> 
+-> http://www.kubuntu.org/
 
 # Install
 
---Bios--
+Using an USB Stick with dd :-)
+
+Something like this:
+
+dd if=/kubuntu.iso of=/dev/sd? bs=4M && sync
+
+Don't forget the sync.
+
+**Bios**
+
+** Booting Live System **
+
+** Partitioning**
+
+** Install **
+
+** Cleaning up**
+
+# First Boot
+
+** Maintanance **
+
+# Conclusion
+
+
+
 
 #Tags:
 
