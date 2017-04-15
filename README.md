@@ -27,8 +27,8 @@ Main Specs:
 - DVD player
 - 1x USB 3.0 
 - 2x USB 2.0
-- HDMI
-- Audio Out
+- HDMI and VGA
+- Audio Headphonejack
 - LAN
 - Around 4 hours of Battery life when watching movies.
 - Intel HD 620
