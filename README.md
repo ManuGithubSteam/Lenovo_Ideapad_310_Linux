@@ -46,7 +46,7 @@ The List of expected Problems:
 - Sound Issue (found on the Net )
 - Wlan connection issues ( Found on the Net )
 - UEFI ?
-- Yoga desater (RAID Controler?)
+- RAID Controler (This seems to be the same issue as with the Yoga series, disableing RAID sould help...)
 
 # Software
 
