@@ -1,5 +1,5 @@
 # Lenovo_Ideapad_310_Linux
-Tipps and expiriences with the Lenovo Ideapad 310 with Linux
+Tipps and expiriences with the Lenovo Ideapad 310 with Linux, specially with Ubuntu. But it shoudl work with Linux mint and others too.
 
 # Why
 
